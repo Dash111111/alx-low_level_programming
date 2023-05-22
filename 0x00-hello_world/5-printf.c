@@ -1,8 +1,7 @@
 #include<stdio.hi>
 /**
- * main - Entry
- *
- * Return: Always (Success)
+ * main - A program that print a line using the printf funtion
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
